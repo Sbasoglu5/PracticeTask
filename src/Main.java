@@ -5,9 +5,15 @@ public class Main {
        person1.lastName="Poya";
        person1.phoneNumber="789-4517";
 
+
+       RafiksAdditions add=new RafiksAdditions();
+       add.name="Sezar";
+       add.phoneNumber="852-4569";
+
        Person1Addition add=new Person1Addition();
        add.name="Rafik";
        add.phoneNumber="987-5243";
+
 
     }
 }
