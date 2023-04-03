@@ -7,6 +7,6 @@ public class Main {
 
        RafiksAdditions add=new RafiksAdditions();
        add.name="Sezar";
-       add.phoneNumber=852-4569;
+       add.phoneNumber="852-4569";
     }
 }
